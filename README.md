@@ -1,4 +1,4 @@
-# Operating Systems Course (2023-2024) Assignments
+# Operating Systems Course 2023-2024
 This is a repository for my submissions of the optional Operating Systems Course assignments during the academic year 2023-2024.
 
 |   Course Information     |                           |
