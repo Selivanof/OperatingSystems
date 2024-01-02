@@ -1,6 +1,14 @@
 # Operating Systems Course (2023-2024) Assignments
 This is a repository for my submissions of the optional Operating Systems Course assignments during the academic year 2023-2024.
 
+|   Course Information     |                           |
+|--------------------------|---------------------------|
+| Semester                 | 7                         |
+| Attendance Year          | 2023-2024                 |
+| Course Type              | Specialization            |
+| Department               | Electronics and Computers |
+| Project Type             | Optional                  |
+
 # Table of Contents
 1. [Simple Linux Commands](#01-simple-linux-commands)
 2. [Cleanup (Fish Shell)](#02-cleanup-fish-shell)
