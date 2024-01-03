@@ -47,3 +47,6 @@ A simple introduction to Git and GitHub. This assignment involved the creation o
 
 [More Details](https://github.com/Selivanof/os-course/tree/main/03.%20Forks)
 ## 05. TBA
+
+---
+For all of my university-related projects you can visit [this repository](https://github.com/Selivanof/UniversityCollection)
